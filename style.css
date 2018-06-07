@@ -1,12 +1,12 @@
 html{
-    position: relative;
-    min-height: 100%;
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
+    position: relative;
+    min-height: 100vh;
 }
-
 body{
-    background-image: url(images/country-quilt.png);
+    background-image: url(../images/country-quilt.png);
     color: #777777;
     margin: 0;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
