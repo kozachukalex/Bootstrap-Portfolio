@@ -26,13 +26,20 @@ h1{
     padding: 2%;
 }
 
+h2{
+    border-bottom: 2px #cccccc solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
 a.nav-link{
     color: #777;
 }
 
 .card{
     background: #ffffff;
-    border: 2px #dddddd solid;
+    border: 2px #cccccc solid;
     line-height: 150%; 
 }
 
